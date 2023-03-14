@@ -1,3 +1,1 @@
-#!/bin/bash
-alias ls="rm *"
-
+Shell variable expansion
